@@ -1,0 +1,19 @@
+﻿  OpenCv.cpp
+D:\Desktop\c++ Experiments\VS\OpenCv\OpenCv\OpenCv.cpp(24,37): warning C4101: 'boundary': unreferenced local variable
+D:\Desktop\c++ Experiments\VS\OpenCv\OpenCv\OpenCv.cpp(24,23): warning C4101: 'prev_gray_pix': unreferenced local variable
+D:\Desktop\c++ Experiments\VS\OpenCv\OpenCv\OpenCv.cpp(19,13): warning C4244: 'return': conversion from 'double' to 'pixel', possible loss of data
+          with
+          [
+              pixel=int
+          ]
+D:\Desktop\c++ Experiments\VS\OpenCv\OpenCv\OpenCv.cpp(28): message : see reference to function template instantiation 'pixel logShift<int>(pixel)' being compiled
+          with
+          [
+              pixel=int
+          ]
+  Generating code
+  1 of 121 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCv.vcxproj -> D:\Desktop\c++ Experiments\VS\OpenCv\x64\Release\OpenCv.exe
